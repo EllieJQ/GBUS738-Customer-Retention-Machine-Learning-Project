@@ -16,3 +16,6 @@ The outcome variable in this data is canceled_service. This variable records whe
 In first section of the project, an exploratory data analysis has been performed to explore the relationship between canceled_service and the other variables in the telecom_df data set. The goal of this analysis is to discover which variables drive the differences between customers who do and do not cancel their service.
 
 In second section of the project, three classification algorithms are fit to predict the response variable,canceled_service. All the other variables in the telecom_df data are used as predictor variables for each model.
+
+The final HTML output of this project can be accessed from the following link:
+https://rpubs.com/EllieJQ/790228
